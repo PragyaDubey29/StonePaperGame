@@ -1,8 +1,8 @@
 // let marks = [85, 97, 44, 37, 76, 60];
 // let sum = 0;
 // for(let i = 0; i< marks.length ; i++){
-  
-//      sum = sum + marks[i];  
+
+//      sum = sum + marks[i];
 // }
 // let avarage = sum/marks.length;
 // console.log(`Avarage of marks is = " , ${avarage}`);
@@ -20,10 +20,8 @@
 // company.splice(2, 1, "Ola");
 // company.push("Aamazon");
 
-
-const muliple = (a,b) => {
-
-    console.log(a*b)
-
-}
-muliple(5,6);
+const muliple = (a, b) => {
+  console.log(a * b);
+};
+muliple(5, 6);
+console.log("hi");
